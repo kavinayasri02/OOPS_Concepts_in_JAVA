@@ -24,3 +24,4 @@ public abstract class AbstractFileReader {
 
     protected abstract String parseLine(String line);
 }
+
