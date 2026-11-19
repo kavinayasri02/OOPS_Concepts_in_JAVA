@@ -1,4 +1,4 @@
 public class BankAccount {
-    String owner;
+    String name;
     double balance;
 }
